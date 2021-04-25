@@ -1,0 +1,37 @@
+# Kickstarting with Excel
+
+## Overview of Project
+
+
+### Purpose
+
+The Purpose of this project is to analyze and organize data for a kickstarter challenge which has goals for donations. The donations are summarized by the goal and the actual amount pledged separated by different outcomes such as successful, canceled, failed, and live. Each goal corresponds to a catergory such as theater, television, films, and more. 
+
+## Analysis and Challenges
+I performed my analysis by performing V-look ups, and creating charts. I also performed different creations of charts such as line graphs and bar graphs that portrayed a clear picture of my analysis.
+
+### Analysis of Outcomes Based on Launch Date
+Screenshot attached.
+
+
+### Analysis of Outcomes Based on Goals
+Screenshot attached.
+
+
+### Challenges and Difficulties Encountered
+Some challenges that one could encounter in this practice is ensuring the data is correctly grouped. For example, one needs to group in months for the rows section for date created conversion. Also 
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+May had the highest number of successful outcomes. July had the highest number of failed outcomes.
+
+
+- What can you conclude about the Outcomes based on Goals?
+One conclusion that I resulted with based on the data is that the larger the range of the goal amount, the lower the percentage of success with exception to the ranges of 35000 to 39000 and 40000 to 44999.
+
+- What are some limitations of this dataset?
+Some limitations of this dataset are that this data may not be correctly categorized. 
+
+- What are some other possible tables and/or graphs that we could create?
+
+Some other possible tables and/or graphs one could create are a pie chart or a scatter chart.
